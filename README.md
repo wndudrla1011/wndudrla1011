@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joo-young,Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joo-young,Kim&fontSize=90&desc=Server%20Engineer&descAlign=80&descAlignY=65" />
 <br/>
 <div style="display:flex; color:white">
   <a href="https://dev-rootable.tistory.com"><img src="https://img.shields.io/badge/Blog-7957D5?style=flat&logo=Buefy&logoColor=white"/></a>
