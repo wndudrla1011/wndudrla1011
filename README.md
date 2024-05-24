@@ -35,3 +35,5 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </div>
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndudrla1011&show_icons=true&theme=radical)
