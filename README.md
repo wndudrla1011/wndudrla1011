@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joo-young,Kim&fontSize=90" />
+<br/>
 <div style="display:flex; color:white">
   <a href="https://dev-rootable.tistory.com"><img src="https://img.shields.io/badge/Blog-7957D5?style=flat&logo=Buefy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pink70834@gmail.com-FF0000?style=flat&logo=Gmail&logoColor=white"/>
@@ -36,4 +38,3 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </div>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndudrla1011&show_icons=true&theme=radical)
