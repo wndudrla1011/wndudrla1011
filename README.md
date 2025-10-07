@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joo-young,Kim&fontSize=90&desc=Server%20Engineer&descAlign=80&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ju-yeong,Kim&fontSize=90&desc=Server%20Engineer&descAlign=80&descAlignY=65" />
 <br/>
 <div style="display:flex; color:white">
   <a href="https://dev-rootable.tistory.com"><img src="https://img.shields.io/badge/Blog-7957D5?style=flat&logo=Buefy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pink70834@gmail.com-FF0000?style=flat&logo=Gmail&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%98%81-%EA%B9%80-73bbb9287"><img src="https://img.shields.io/badge/JooyoungKim-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%98%81-%EA%B9%80-73bbb9287"><img src="https://img.shields.io/badge/JuyeongKim-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </div>
 <br/>
 <div>
